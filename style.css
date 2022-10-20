@@ -1,0 +1,10 @@
+body {
+    background: rgb(189, 245, 192);
+}
+
+.canvas {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    background: rgb(226, 241, 5);
+}
